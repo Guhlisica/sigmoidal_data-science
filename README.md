@@ -30,3 +30,5 @@ Veja os tutoriais publicados do Sigmoidal:
 * **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
 
 ---
+* ** Vai toma no cú **
+
